@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(15,
+}
+h1 {
+  text-align: center; 
+  font-family: helvetica;
+  background-color:rgba(30,80,35,.7);
+  border: solid 5px;    
+  border-color:rgba(80,20,25,.9);
+  padding: 30px;
+  margin: 0px;
+}
+p {
+ text-align: center;
+ font-family: arial;
+ font-size: 20px;
+}
